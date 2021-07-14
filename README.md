@@ -13,5 +13,5 @@
 
 ## Realizado por:
 
-[**Erick H. D. de Souza**](https://github.com/ErickHDdS)
+[**Erick H. D. de Souza**](https://github.com/ErickHDdS) e
 [**Marina B. Diniz**](https://github.com/pixel-debug)
