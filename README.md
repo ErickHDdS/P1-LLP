@@ -8,7 +8,7 @@
  2. Compila o código "mjava.java"
  `javac mjava.java `
  3. Rode o código bytecode "mjava.class" passando como parâmetro de execução o caminho para um arquivo de exemplo mini Java.
- `java mjava ./exemples/teste.mjava`
+ `java mjava ./examples/teste.mjava`
     
 
 ## Realizado por:
